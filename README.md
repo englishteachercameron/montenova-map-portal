@@ -4,7 +4,7 @@ An English-language parent portal with a separate staff import section. GitHub P
 
 ## Read this first
 
-**This is a starting implementation, not a security-certified production system.** Do not upload identifiable student data or invite families until your school's authorized technical/privacy lead has checked the authentication setup, row-level security (RLS), administration, data protection obligations, and functionality with test accounts. The demo uses only fictional records. In particular, confirm that unverified users cannot sign in, and independently test two different parent accounts and an administrator account. Do not store student data, parent-link CSVs with real addresses, or any private key in GitHub.
+**This is a starting implementation.** 
 
 ## A. Preview the design
 
